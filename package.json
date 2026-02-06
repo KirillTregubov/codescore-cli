@@ -1,6 +1,6 @@
 {
   "name": "codescore-cli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "This is a CLI tool. You might be in the wrong place...",
   "main": "index.js",
   "bin": {
