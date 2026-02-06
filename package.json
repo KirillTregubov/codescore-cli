@@ -1,8 +1,11 @@
 {
   "name": "codescore-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This is a CLI tool. You might be in the wrong place...",
   "main": "index.js",
+  "bin": {
+    "codescore-cli": "index.js"
+  },
   "keywords": [],
   "license": "ISC",
   "type": "module"
